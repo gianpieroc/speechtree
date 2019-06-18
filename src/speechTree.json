@@ -1,0 +1,80 @@
+[
+  {
+    "feature_id": 1,
+    "name": "feature 1",
+    "contexts": [
+      {
+        "context_id": 2,
+        "name": "context 21",
+        "events": [
+          {
+            "event_id": 3,
+            "name": "Event 211",
+            "sentences": [
+              {
+                "sentence_id": 4,
+                "name": "sentence 1",
+                "key": "name",
+                "value": "nombre"
+              },
+              {
+                "sentence_id": 5,
+                "name": "sentence 2",
+                "key": "lastname",
+                "value": "apellido"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "feature 2",
+    "feature_id": 6,
+    "contexts": [
+      {
+        "context_id": 7,
+        "name": "context 31",
+        "events": [
+          {
+            "event_id": 8,
+            "name": "Event 221",
+            "sentences": [
+              {
+                "sentence_id": 10,
+                "name": "sentence 2",
+                "key": "lastname",
+                "value": "apellido"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "feature 3",
+    "feature_id": 20,
+    "contexts": [
+      {
+        "context_id": 21,
+        "name": "context 1123",
+        "events": [
+          {
+            "event_id": 22,
+            "name": "Event 3121231",
+            "sentences": [
+              {
+                "sentence_id": 23,
+                "name": "sentence 2",
+                "key": "lastname",
+                "value": "apellido"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
